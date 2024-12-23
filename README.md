@@ -17,6 +17,8 @@
 | [Swan](https://codehawks.cyfrin.io/c/2024-10-swan-dria)                    | Structured Market                | codehawks  |4M                | 48   | [📄](https://codehawks.cyfrin.io/c/2024-10-swan-dria/results?lt=contest&sc=reward&sj=reward&page=5&t=report)  |
 | [Nouns Dao](https://audits.sherlock.xyz/contests/688?filter=questions)     | Auction streams                  | sherlock   |Pending           |  -   | - |
 | [Hyperlend](https://cantina.xyz/competitions/cd180bb3-5d7d-46ed-8b99-d905e54a9d0b)| Lending Platform          | cantina    |Pending           |  -   | - |
+| [Chainlink PA](https://code4rena.com/audits/2024-12-chainlink-payment-abstraction)| Chainlink Comp Billing system          | code4rena    |Pending           |  -   | - |
+
 
 
 
